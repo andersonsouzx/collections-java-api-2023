@@ -12,7 +12,7 @@ public class GenericsExempleList {
 
 		// Exemplo com Generics
 		List<String> listaGenerics = new ArrayList<>();
-		listaGenerics.add("Elemento ");
+		listaGenerics.add("Elemento 1");
 		listaGenerics.add("Elemento 2");
 
 		// Iterando sobre a lista com Generics
